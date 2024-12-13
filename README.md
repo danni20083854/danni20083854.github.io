@@ -40,7 +40,7 @@
 	-Secure Shell (SSH) </p>
 	-Internet Protocol Security (IPsec) </p>
 </p>
-![cyber!](https://github.com/user-attachments/assets/7a9c44a7-0079-4bf6-84d4-43a033f3c04d)
+<img>![cyber!](https://github.com/user-attachments/assets/f6e71317-59b3-48f0-8c33-5439c3c66532)
  
  
  
