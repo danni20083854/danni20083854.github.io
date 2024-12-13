@@ -40,5 +40,7 @@
 		-Secure Shell (SSH) 
 		-Internet Protocol Security (IPsec) 
 	</p>
-	<img src = "https://github.com/mimi-w458/cse005.github.io.wiki.git">
+	![cybersecurity-best-practices-to-protect-from-cyber-threats](https://github.com/user-attachments/assets/7a9c44a7-0079-4bf6-84d4-43a033f3c04d)
+ 
+ 
  
