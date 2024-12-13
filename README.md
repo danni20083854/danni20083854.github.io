@@ -37,8 +37,8 @@
  </p>
  <p>When it comes to VPN’s, the encryption makes the data unreadable without the key. For data-in-transit, there are a few options for encryption. :
 <p> 	-Secure Socket Layer (SSL)/Transport Layer Security (TLS) 
-		-Secure Shell (SSH) 
-		-Internet Protocol Security (IPsec) 
+	-Secure Shell (SSH) </p>
+	-Internet Protocol Security (IPsec) </p>
 </p>
 ![cybersecurity-best-practices-to-protect-from-cyber-threats](https://github.com/user-attachments/assets/7a9c44a7-0079-4bf6-84d4-43a033f3c04d)
  
