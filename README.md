@@ -24,7 +24,7 @@
 	 <p>- Network Security:</p>
 		<p>        Develops simple policies to counteract any risk through an automated technical response: </p>
 	<p> - Malware Prevention: </p>
-		<p>      -- Any altercation of information carries with it a degree of risk that malware might be substituted,
+		<p>     -- Any altercation of information carries with it a degree of risk that malware might be substituted,
 		  but can be reduced by developing and implementing appropriate anti-malware tools :</p>
 	<p> - Managing identity and Access Management: </p>
 		 <p>     -- All users should be provided with an appropriate level of system privileges and rights as per their roles and responsibilities: </p>
