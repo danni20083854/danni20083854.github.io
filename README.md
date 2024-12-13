@@ -14,9 +14,9 @@
    <p>Security Measures </p>
 <p>Why Security Measures are important: </p>
 <p>Implementing security measures in a company is much more than just an administrative formality; 
-		it’s a process to protect employees, assets, and ensure operational continuity. 
+<p>it’s a process to protect employees, assets, and ensure operational continuity. 
 		In a world where risks can originate from various sources, including physical security, cybersecurity, and environmental risks,
-		managing security in the corporate world is a complex challenge 
+		managing security in the corporate world is a complex challenge</p>
 </p>
 <p> Common Cyber Security Measures Include: </p>
 <p> - Secure Configuration:
