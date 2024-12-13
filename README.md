@@ -40,7 +40,7 @@
 	-Secure Shell (SSH) </p>
 	-Internet Protocol Security (IPsec) </p>
 </p>
-![cybersecurity-best-practices-to-protect-from-cyber-threats.jpg!](https://github.com/user-attachments/assets/7a9c44a7-0079-4bf6-84d4-43a033f3c04d)
+![cyber!](https://github.com/user-attachments/assets/7a9c44a7-0079-4bf6-84d4-43a033f3c04d)
  
  
  
