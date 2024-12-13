@@ -11,6 +11,7 @@
     <a href = "https://cse005.github.io/website.html">Home</a>
     <a href = "https://cse005.github.io/.html">Security Measures</a>
   </nav>
+![cybersecurity-best-practices-to-protect-from-cyber-threats](https://github.com/user-attachments/assets/7a9c44a7-0079-4bf6-84d4-43a033f3c04d)
    <p>Security Measures </p>
 <p>Why Security Measures are important: </p>
 <p>Implementing security measures in a company is much more than just an administrative formality; 
@@ -40,7 +41,7 @@
 		-Secure Shell (SSH) 
 		-Internet Protocol Security (IPsec) 
 </p>
-	![cybersecurity-best-practices-to-protect-from-cyber-threats](https://github.com/user-attachments/assets/7a9c44a7-0079-4bf6-84d4-43a033f3c04d)
+
  
  
  
