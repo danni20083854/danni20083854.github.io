@@ -19,7 +19,7 @@
 		managing security in the corporate world is a complex challenge 
 	</p>
 	<p> Common Cyber Security Measures Include: </p>
-	</p> - Secure Configuration:
+	<p> - Secure Configuration:
 	    -- Such as fixing known weakness or vulnerabilities through patching</p>
 	 - Network Security:
 	    -- Develops simple policies to counteract any risk through an automated technical response: 
@@ -40,7 +40,7 @@
 		-Secure Shell (SSH) 
 		-Internet Protocol Security (IPsec) 
 	</p>
-	[cybersecurity-best-practices-to-protect-from-cyber-threats](https://github.com/user-attachments/assets/7a9c44a7-0079-4bf6-84d4-43a033f3c04d)
+	![cybersecurity-best-practices-to-protect-from-cyber-threats](https://github.com/user-attachments/assets/7a9c44a7-0079-4bf6-84d4-43a033f3c04d)
  
  
  
