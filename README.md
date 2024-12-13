@@ -8,7 +8,7 @@
 </head>
 <body>
   <nav> 
-    <a href = "https://cse005.github.io/website.html">Home</a>
+    <a href = "https://cse005.github.io/website.html">Home</a> 
     <a href = "https://cse005.github.io/.html">Security Measures</a>
   </nav>
 <p>Security Measures </p>
