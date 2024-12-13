@@ -13,13 +13,13 @@
   </nav>
    <p>Security Measures </p>
 <p>Why Security Measures are important: </p>
-	<p>Implementing security measures in a company is much more than just an administrative formality;
+<p>Implementing security measures in a company is much more than just an administrative formality;
 		it’s a process to protect employees, assets, and ensure operational continuity. 
 		In a world where risks can originate from various sources, including physical security, cybersecurity, and environmental risks,
 		managing security in the corporate world is a complex challenge 
-	</p>
-	<p> Common Cyber Security Measures Include: </p>
-	<p> - Secure Configuration:
+</p>
+<p> Common Cyber Security Measures Include: </p>
+<p> - Secure Configuration:
 	    -- Such as fixing known weakness or vulnerabilities through patching</p>
 	 - Network Security:
 	    -- Develops simple policies to counteract any risk through an automated technical response: 
@@ -34,8 +34,8 @@
 	   -- Ensures employees can do their job as well as help to keep the organization secure: 
 	 - Virtual Private Network: 
 	   -- VPN encrypts web traffic by creating a tunnel between the computer and the network, which hides activities from the Internet Service Provider: 
-	 </p>
-	 <p>When it comes to VPN’s, the encryption makes the data unreadable without the key. For data-in-transit, there are a few options for encryption. :
+ </p>
+ <p>When it comes to VPN’s, the encryption makes the data unreadable without the key. For data-in-transit, there are a few options for encryption. :
 	<p> 	-Secure Socket Layer (SSL)/Transport Layer Security (TLS) 
 		-Secure Shell (SSH) 
 		-Internet Protocol Security (IPsec) 
