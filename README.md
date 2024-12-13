@@ -19,21 +19,21 @@
 </p>
 <p> Common Cyber Security Measures Include:
 </p>
- - Secure Configuration:
-      Such as fixing known weakness or vulnerabilities through patching</p>
-- Network Security:</p>
-        Develops simple policies to counteract any risk through an automated technical response: </p>
- - Malware Prevention: 
-	-- Any altercation of information carries with it a degree of risk that malware might be substituted,
+	<p> - Secure Configuration:
+		--Such as fixing known weakness or vulnerabilities through patching
+		- Network Security:
+		--Develops simple policies to counteract any risk through an automated technical response:
+		- Malware Prevention: 
+		-- Any altercation of information carries with it a degree of risk that malware might be substituted,
 		  but can be reduced by developing and implementing appropriate anti-malware tools:
-	- Managing identity and Access Management: 
-	-- All users should be provided with an appropriate level of system privileges and rights as per their roles and responsibilities: 
-	- Removable Media Control: 
-	-- All digital assets should be hardened from all data loss and credential theft : 
-	- User Education, Awareness, and Training: 
-	-- Ensures employees can do their job as well as help to keep the organization secure: 
-	- Virtual Private Network: 
-	-- VPN encrypts web traffic by creating a tunnel between the computer and the network, which hides activities from the Internet Service Provider:
+		- Managing identity and Access Management: 
+		-- All users should be provided with an appropriate level of system privileges and rights as per their roles and responsibilities: 
+		- Removable Media Control: 
+		-- All digital assets should be hardened from all data loss and credential theft : 
+		- User Education, Awareness, and Training: 
+		-- Ensures employees can do their job as well as help to keep the organization secure: 
+		- Virtual Private Network: 
+		-- VPN encrypts web traffic by creating a tunnel between the computer and the network, which hides activities from the Internet Service Provider:</p>
  </p>
  <p>When it comes to VPN’s, the encryption makes the data unreadable without the key. For data-in-transit, there are a few options for encryption. :
 <p> 	-Secure Socket Layer (SSL)/Transport Layer Security (TLS) 
