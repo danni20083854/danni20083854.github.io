@@ -20,7 +20,7 @@
 <p> Common Cyber Security Measures Include:
 </p>
 <p> - Secure Configuration:
-	--Such as fixing known weakness or vulnerabilities through patching</p>
+--Such as fixing known weakness or vulnerabilities through patching</p>
 		- Network Security:</p>
 		--Develops simple policies to counteract any risk through an automated technical response:</p>
 		- Malware Prevention: </p>
